@@ -1,0 +1,44 @@
+{
+  "habilidades": [
+    {
+      "id": 1,
+      "titulo": "Java",
+      "descricao": "Desenvolvimento de aplicações back-end utilizando Java, com foco em desempenho, escalabilidade e segurança."
+    },
+    {
+      "id": 2,
+      "titulo": "Spring Boot",
+      "descricao": "Criação de APIs RESTful e microserviços com o framework Spring Boot, utilizando injeção de dependência, JPA e segurança com Spring Security."
+    },
+    {
+      "id": 3,
+      "titulo": "JUnit",
+      "descricao": "Criação de testes unitários e de integração em Java utilizando JUnit e Mockito para garantir a qualidade do código."
+    },
+    {
+      "id": 4,
+      "titulo": "Maven",
+      "descricao": "Gerenciamento de dependências, ciclo de build e plugins de projeto com Maven."
+    },
+    {
+      "id": 5,
+      "titulo": "Docker",
+      "descricao": "Containerização de aplicações Java, facilitando o deploy e a consistência entre ambientes."
+    },
+    {
+      "id": 6,
+      "titulo": "Banco de Dados",
+      "descricao": "Modelagem e manipulação de dados em bancos relacionais como MySQL e PostgreSQL, com uso de JPA/Hibernate."
+    },
+    {
+      "id": 7,
+      "titulo": "Segurança com Spring Security",
+      "descricao": "Implementação de autenticação, autorização e boas práticas de segurança em APIs RESTful com Spring Security."
+    },
+    {
+      "id": 8,
+      "titulo": "APIs RESTful",
+      "descricao": "Criação, documentação e consumo de APIs RESTful com boas práticas de arquitetura e padronização."
+    }
+  ]
+}
